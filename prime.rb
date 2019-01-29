@@ -2,6 +2,8 @@
 def prime?(number)
   if !number.Integer?
     return false
-    if 
+  if number < 2 
+    return false
+  if 
 end
 end
