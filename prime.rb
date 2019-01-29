@@ -6,6 +6,6 @@ def prime?(number)
     return false
   if number == 2
     return true
-  (2..number-1).each {|in| 
+  (2..number-1).each {|in| return false if in 
 end
 end
