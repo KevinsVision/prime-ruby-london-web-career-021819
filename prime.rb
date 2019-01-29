@@ -1,6 +1,7 @@
 # Add  code here!
 def prime?(number)
   if !number.Integer?
-    return FALSE
+    return false
+    if 
 end
 end
