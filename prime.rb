@@ -5,7 +5,7 @@ def prime?(number)
   if number < 2 
     return false
   if number == 2
-    return false
+    return true
     
 end
 end
