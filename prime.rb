@@ -9,4 +9,3 @@ def prime?(number)
   (2..number-1).each {|in| return false if number % in == 0}
   true
 end
-end
